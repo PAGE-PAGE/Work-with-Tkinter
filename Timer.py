@@ -2,6 +2,7 @@ from tkinter import ttk
 from tkinter import *
 from time import sleep
 
+
 window = Tk()
 window.title('Timer By AParfin')
 window.geometry('450x450')
